@@ -1,0 +1,191 @@
+{
+"mode":"Blocks",
+"workspace":"<xml xmlns=\"http://www.w3.org/1999/xhtml\">
+<variables>
+	<variable 
+		type=\"\" 
+		id=\"d?(~;^We:kZjpf`TwRSq\" 
+		islocal=\"false\" 
+		iscloud=\"false\" 
+		arraylength=\"0\" 
+		arraywidth=\"0\">x1
+	</variable>
+	<variable 	
+		type=\"\" 
+		id=\"3,?igH1K_s+v)(vfwq3l\" 
+		islocal=\"false\" 
+		iscloud=\"false\" 
+		arraylength=\"0\" 
+		arraywidth=\"0\">y1
+	</variable>
+</variables>
+
+<block type=\"v5_events_when_started\" id=\".NsXwU_L.OuU1l7Sho$F\" deletable=\"false\" x=\"730\" y=\"-570\">
+	<next>
+	<block type=\"v5_variables_set_variable\" id=\"M3sZB,u$-Ha15)X~QPv_\">
+		<field name=\"VARIABLE\" id=\"d?(~;^We:kZjpf`TwRSq\" variabletype=\"\">x1</field>
+		<value name=\"VALUE\">
+			<shadow type=\"math_number\" id=\"S-n$zF3a@+KiQy3{EIo_\">
+				<field name=\"NUM\">-1400</field>
+			</shadow>
+		</value>
+		<next>
+		<block type=\"v5_variables_set_variable\" id=\"uxF]dbyihPHEp7KL!L}P\">
+			<field name=\"VARIABLE\" id=\"3,?igH1K_s+v)(vfwq3l\" variabletype=\"\">y1</field>
+			<value name=\"VALUE\">
+				<shadow type=\"math_number\" id=\"n[@4Keirw;~NjAh=pRC#\">
+					<field name=\"NUM\">1320</field>
+				</shadow>
+			</value>
+			<next>	
+			<block type=\"v5_sensing_calibrate_gyro\" id=\"M1GreP?|SFtH2bIC:N}6\">
+				<field name=\"GYRO\">GyroA</field>
+				<next>
+				<block type=\"procedures_call\" id=\"4)l`1ahI|S_[x#7]4]{,\">
+					<mutation 
+						proccode=\"Goto %n x %n y\" 
+						proceduredefid=\"dLr)pJCUCcAehw4|j?2a\" 
+						argumentids=\"[&quot;V/m()E{96Jt(I6ykh=pX&quot;,&quot;Dn{kF`=CPnbCl(DDi+O8&quot;]\" 
+						warp=\"false\">
+					</mutation>
+					<value name=\"V/m()E{96Jt(I6ykh=pX\">
+						<shadow type=\"math_number\" id=\"+s:Y#G;U[Rp:TG3V=r=p\">
+							<field name=\"NUM\">0</field>
+						</shadow>
+					</value>
+					<value name=\"Dn{kF`=CPnbCl(DDi+O8\">
+						<shadow type=\"math_number\" id=\"*Lvl$C,T*E@#F-snQ/!|\">
+							<field name=\"NUM\">0</field>
+						</shadow>
+					</value>
+					<next>
+					<block type=\"procedures_call\" id=\"sCSABBTu!NGTkN_O;{fd\">
+						<mutation 
+							proccode=\"Goto %n x %n y\" 
+							proceduredefid=\"dLr)pJCUCcAehw4|j?2a\" 
+							argumentids=\"[&quot;V/m()E{96Jt(I6ykh=pX&quot;,&quot;Dn{kF`=CPnbCl(DDi+O8&quot;]\" 
+							warp=\"false\">
+						</mutation>
+						<value name=\"V/m()E{96Jt(I6ykh=pX\">
+							<shadow type=\"math_number\" id=\".J+9mt{q@ZM(|KxRX]$2\">
+								<field name=\"NUM\">1000</field>
+							</shadow>
+						</value>
+						<value name=\"Dn{kF`=CPnbCl(DDi+O8\">
+							<shadow type=\"math_number\" id=\"V?d|dO0lLvAXHk]i4R~9\">
+								<field name=\"NUM\"></field>
+							</shadow>
+						</value>
+					</block>
+					</next>
+				</block>
+				</next>
+			</block>
+			</next>
+		</block>
+		</next>
+	</block>
+	</next>
+</block>
+<block type=\"v5_events_when_controller_button\" id=\"T4`I;X7~qR{9SPQ6py%!\" x=\"730\" y=\"-190\">
+	<field name=\"CONTROLLER\">Controller1</field>
+	<field name=\"BUTTON\">ButtonR2</field>
+	<field name=\"EVENTTYPE\">released</field>
+	<next>
+	<block type=\"v5_motion_stop_motor\" id=\"7!?UqU[#^gkFf(`N7+!Q\">
+		<field name=\"MOTOR\">MotorGroup3</field>
+	</block>
+	</next>
+</block>
+<block type=\"v5_events_when_controller_button\" id=\"*i@/D#!2J!We;r.:YgjQ\" x=\"730\" y=\"50\">
+	<field name=\"CONTROLLER\">Controller1</field>
+	<field name=\"BUTTON\">ButtonR1</field>
+	<field name=\"EVENTTYPE\">pressed</field>
+	<next>
+	<block type=\"v5_motion_spin\" id=\"mQL[n9M5XhS#vH{oa_5$\">
+		<field name=\"MOTOR\">MotorGroup3</field>
+		<field name=\"DIRECTION\">fwd</field>
+	</block>
+	</next>
+</block>
+</xml>",
+"rconfig":
+[
+	{
+		"port":[2,1,0],
+		"name":"Drivetrain",
+		"customName":false,
+		"deviceType":"Drivetrain",
+		"deviceClass":"smartdrive",
+		"setting":{
+			"type":"2-motor",
+			"wheelSize":"wheel4in",
+			"gear":"ratio18_1",
+			"gearRatio":"1:1",
+			"direction":"fwd",
+			"gyroType":"none",
+			"width":"295",
+			"unit":"mm",
+			"wheelbase":"40",
+			"wheelbaseUnit":"mm",
+			"xOffset":"0",
+			"xOffsetUnit":"mm",
+			"yOffset":"0",
+			"yOffsetUnit":"mm",
+			"thetaOffset":"180"
+		}
+	},
+	{
+		"port":[1],
+		"name":"GyroA",
+		"customName":false,
+		"deviceType":"Gyro",
+		"deviceClass":"gyro",
+		"setting":{},
+		"triportSourcePort":22
+	},
+	{
+		"port":[],
+		"name":"Controller1",
+		"customName":false,
+		"deviceType":"Controller",
+		"deviceClass":"controller",
+		"setting":{
+			"left":"",
+			"leftDir":"false",
+			"right":"",
+			"rightDir":"false",
+			"upDown":"",
+			"upDownDir":"false",
+			"xB":"",
+			"xBDir":"false",
+			"drive":"tank",
+			"id":"primary"
+		}
+	},
+	{
+		"port":[3,4],
+		"name":"MotorGroup3",
+		"customName":false,
+		"deviceType":"MotorGroup",
+		"deviceClass":"motor_group",
+		"setting":{
+			"fwd":"forward",
+			"rev":"reverse",
+			"gear":"ratio36_1",
+			"motor_a_reversed":"false",
+			"motor_b_reversed":"true"
+		}
+	}
+],
+"slot":0,
+"platform":"V5",
+"sdkVersion":"20220215.18.00.00",
+"appVersion":"2.3.1",
+"fileFormat":"1.0.1",
+"icon":"",
+"targetBrainGen":"First",
+"cppStatus":"false",
+"cpp":"//Invalid Graphical Code",
+"target":"Physical"
+}
