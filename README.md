@@ -9,6 +9,10 @@ The teams of 76209 at Saigon South on "Tipping Point". Our teams:
 - 76209M "Masters" with Cherno Alpha
 - 76209R "Rookies" with Tacit Ronin
 
+## Presentation of last meeting on June 3rd - with a life competition
+
+[Link to the presentation](https://docs.google.com/presentation/d/1GN96e_NtOi18cUoawOQ_z3Wyn68V_QT-zIVcMUL7qGo/edit?usp=sharing)
+
 ## Example scripts
 
 The example scripts should test the general working condition of the robot with motors and brain. We have example programs in python and blockcode to check motors or GPS sensor.
