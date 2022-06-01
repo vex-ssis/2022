@@ -4,4 +4,6 @@ Robot name: Gipsy Danger
 
 Color: red
 
-Team captian: Tina
+Team captain: Tina
+
+Will be updated.
