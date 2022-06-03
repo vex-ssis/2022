@@ -20,39 +20,39 @@ List for scores
 
 Team members are Tina, Meherika, Milly and Bomin
 
-<img src="76209G.jpg" width=49%><img src="76209G_.jpg" width=49%>
+<img src="76209G.jpeg" width=49%> <img src="76209G_.jpeg" width=49%>
 
 ## Team 76209X - Runners Up 2022
 
 Team members are Khang, Phu, Kenneth and .
 
-<img src="76209X.jpg" width=49%><img src="76209X_.jpg" width=49%>
+<img src="76209X.jpeg" width=49%> <img src="76209X_.jpeg" width=49%>
 
 
 ## Team 76209M - Third place 2022
 
 Team members are .
 
-<img src="76209M.jpg" width=49%><img src="76209M_.jpg" width=49%>
+<img src="76209M.jpeg" width=49%> <img src="76209M_.jpeg" width=49%>
 
 
 ## Team 76209D - The fourth working robot 2022
 
 Team members are .
 
-<img src="76209D_.jpg" width=49%>
+<img src="76209D_.jpeg" width=49%>
 
 ## Team 76209S - Unique design choices
 
 Team members are .
 
-<img src="76209S_.jpg" width=49%>
+<img src="76209S_.jpeg" width=49%>
 
 ## Team 76209R - the Rookies
 
 Team members are .
 
-<img src="76209R_.jpg" width=49%>
+<img src="76209R_.jpeg" width=49%>
 
 
 ## Team overview
