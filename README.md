@@ -13,7 +13,7 @@ The 6 teams of 76209 at Saigon South on "Tipping Point".
 
 The field was set for the game:
 
-![game field](ssis2022.jpg)
+![game field](docs/ssis2022.jpg)
 
 In round 2 the aliance of 76209G and 76209M scored 150 points!
 

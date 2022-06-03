@@ -18,39 +18,39 @@ List for scores
 
 ## Team 76209G - Winner 2022
 
-Team members are Tina, Meherika, Milly and Bomin
+Team members are Tina, Meherika, Milly and Bomin.
 
 <img src="76209G.jpeg" width=49%> <img src="76209G_.jpeg" width=49%>
 
 ## Team 76209X - Runners Up 2022
 
-Team members are Khang, Phu, Kenneth and .
+Team members are Khang, Phu, Kenneth, Jerry and Leo.
 
 <img src="76209X.jpeg" width=49%> <img src="76209X_.jpeg" width=49%>
 
 
 ## Team 76209M - Third place 2022
 
-Team members are .
+Team members are Hawoon, Vanessa, Danny, Thai, Steven and David.
 
 <img src="76209M.jpeg" width=49%> <img src="76209M_.jpeg" width=49%>
 
 
 ## Team 76209D - The fourth working robot 2022
 
-Team members are .
+Team members are Yuseong, Doyun, Tom and Lam.
 
 <img src="76209D_.jpeg" width=49%>
 
 ## Team 76209S - Unique design choices
 
-Team members are .
+Team members are Mikel, Anh Minh, Daniel and Khoa.
 
 <img src="76209S_.jpeg" width=49%>
 
 ## Team 76209R - the Rookies
 
-Team members are .
+Team members are Ian, Quang, Cheuk Kai and Keng.
 
 <img src="76209R_.jpeg" width=49%>
 
