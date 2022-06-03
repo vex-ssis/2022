@@ -1,6 +1,6 @@
 # VEX 2022 at SSIS
 
-The teams of 76209 at Saigon South on "Tipping Point". Our teams:
+The 6 teams of 76209 at Saigon South on "Tipping Point".
 
 - 76209G "Girls rule" with Gipsy Danger
 - 76209X "X-Men" with Matador Fury
@@ -8,6 +8,24 @@ The teams of 76209 at Saigon South on "Tipping Point". Our teams:
 - 76209D "Dragons" with Nova Hyperion
 - 76209M "Masters" with Cherno Alpha
 - 76209R "Rookies" with Tacit Ronin
+
+## The match June 3rd, 2022
+
+The field was set for the game:
+
+![game field](ssis2022.jpg)
+
+In round 2 the aliance of 76209G and 76209M scored 150 points!
+
+(link to the youtube video with picture)
+
+
+## The Teams
+
+![picture 1](docs/76209-2022a.jpg)
+![picture 2](docs/76209-2022b.jpg)
+![picture 3](docs/76209-2022c.jpg)
+
 
 ## Presentation of last meeting on June 3rd - with a life competition
 
