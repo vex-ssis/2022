@@ -1,20 +1,3 @@
-# Team 76209G - Gravitational wave
-
-## Team members - Winners of "Tipping Point" 2022 at SSIS
-
-Our team sonsists of Tina (team captain), Milly, Meherika and Bomin. Our team color is red.
-
-![Team G](../docs/76209G.jpeg)
-
-## Robot: Gipsy Danger
-
-![Robot 76209G](../docs/76209G_.jpeg)
-
-## Code - the only autonomous points in 2022!
-
-Last edit: June 3rd, 2022
-
-``` py
 myVariable = 0
 counter = 0
 
@@ -43,5 +26,3 @@ def when_started1():
 calibrate_drivetrain()
 
 when_started1()
-
-```
