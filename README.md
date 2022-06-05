@@ -9,16 +9,28 @@ The 6 teams of 76209 at Saigon South on "Tipping Point".
 - 76209M "Masters" with Cherno Alpha
 - 76209R "Rookies" with Tacit Ronin
 
-## The match June 3rd, 2022
+## The final match on June 3rd, 2022
 
 The field was set for the game:
 
 ![game field](docs/ssis2022.jpg)
 
-In round 2 the aliance of 76209G and 76209M scored 150 points!
+In round 2 the alliance of 76209G and 76209M scored 150 points!
+
+![score](docs/2022-06-03_match.jpg)
 
 (link to the youtube video with picture)
 
+These are the final scores. There are 100 base points, if the team showed up for this event (only team G and X). And there are additional 5 autonomous points for the winner of the 15 seconds autonomous period. Only team G scored points here during the second match. Finally:
+
+|  Team  | Basepoints | Matchpoints | Autonomous | Sum | Driver |
+|:------:|:----------:|:-----------:|:----------:|:---:|:------:|
+| 76209G |     100    |  40/150/60  |      5     | 355 |  Tina  |
+| 76209X |     100    |   90/40/60  |      0     | 290 |  Khang |
+| 76209M |            |  90/150/40  |      5     | 285 | Hawoon |
+| 76209D |            |   40/40/40  |      0     | 120 |  Milly |
+
+Congratulations to team G!
 
 ## The Teams
 
@@ -27,7 +39,7 @@ In round 2 the aliance of 76209G and 76209M scored 150 points!
 ![picture 3](docs/76209-2022c.jpg)
 
 
-## Presentation of last meeting on June 3rd - with a life competition
+## Presentation of last meeting on June 3rd
 
 [Link to the presentation](https://docs.google.com/presentation/d/1GN96e_NtOi18cUoawOQ_z3Wyn68V_QT-zIVcMUL7qGo/edit?usp=sharing)
 
@@ -130,4 +142,9 @@ def main():
 main()
 ```
 
-More documentation done by students.
+## Just the robots
+
+<img src="docs/76209G_.jpeg" width="30%"> <img src="docs/76209X_.jpeg" width="30%"> <img src="docs/76209M_.jpeg" width="30%">
+
+<img src="docs/76209D_.jpeg" width="30%"> <img src="docs/76209S_.jpeg" width="30%"> <img src="docs/76209R_.jpeg" width="30%">
+
