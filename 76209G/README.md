@@ -2,7 +2,7 @@
 
 ## Team members - Winners of "Tipping Point" 2022 at SSIS
 
-Our team sonsists of Tina (team captain), Milly, Meherika and Bomin. Our team color is red.
+Our team consists of Tina (team captain), Milly, Meherika and Bomin. Our team color is red.
 
 ![Team G](../docs/76209G.jpeg)
 
