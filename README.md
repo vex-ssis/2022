@@ -19,7 +19,7 @@ In round 2 the alliance of 76209G and 76209M scored 150 points!
 
 ![score](docs/2022-06-03_match.jpg)
 
-(link to the youtube video with picture)
+### And here is the [link to the youtube video](https://youtu.be/Q6zuzF059VI) of the two minute match.
 
 These are the final scores. There are 100 base points, if the team showed up for this event (only team G and X). And there are additional 5 autonomous points for the winner of the 15 seconds autonomous period. Only team G scored points here during the second match. Finally:
 
