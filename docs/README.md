@@ -10,7 +10,7 @@ The field was set for the game:
 
 In round 2 the aliance of 76209G and 76209M scored 150 points!
 
-(link to the youtube video with picture)
+[Video of the 2 minute match on YouTube](https://youtu.be/Q6zuzF059VI)
 
 List for scores
 
