@@ -10,11 +10,16 @@ The field was set for the game:
 
 In round 2 the aliance of 76209G and 76209M scored 150 points!
 
-[Video of the 2 minute match on YouTube](https://youtu.be/Q6zuzF059VI)
+### [Video of the 2 minute match on YouTube](https://youtu.be/Q6zuzF059VI)
 
-List for scores
+|  Team  | Basepoints | Matchpoints | Autonomous | Sum | Driver |
+|:------:|:----------:|:-----------:|:----------:|:---:|:------:|
+| 76209G |     100    |  40/150/60  |      5     | 355 |  Tina  |
+| 76209X |     100    |   90/40/60  |      0     | 290 |  Khang |
+| 76209M |            |  90/150/40  |      5     | 285 | Hawoon |
+| 76209D |            |   40/40/40  |      0     | 120 |  Milly |
 
-
+Congratulations to team G! Great work, the only ones with working autonomous function. Well deserved.
 
 ## Team 76209G - Winner 2022
 
